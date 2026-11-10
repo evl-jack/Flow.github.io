@@ -3,7 +3,7 @@ layout: default
 title: Coolant Manifold Project
 ---
 
-# Flow.github.io
+
 # Project 4 : Optimal Flow manifold Design
 Group : Ai Generated
 
@@ -13,6 +13,8 @@ Data centers are what are driving modern day inovation and inorder to keep them 
 
 ## Design Critera
 
+## Verifications
+---
 
 
 ## Progress
