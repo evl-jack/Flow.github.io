@@ -1,3 +1,6 @@
-title: Coolant Manifold Project
-description: "PDE-constrained design of a coolant flow manifold"
-theme: jekyll-theme-primer
+title: Coolant manifold design optimization
+markdown: kramdown
+kramdown:
+  input: GFM
+  math_engine: mathjax
+exclude: [reproduction, requirements.txt]
